@@ -1,2 +1,8 @@
 OPENAI:
   api_key: "sk-F-LkY9yktraZLSKx6TKAtI2ngduLKLKHuZ9ODL96qkT3BlbkFJUo-6xVekYYNYsn70ydOePvhKvHjGTU2ouo6yTVzCQA"
+  model : "openai-community/gpt2"
+
+
+pinecone:
+  api_key: "a1d658df-8eb2-460b-9c98-567bb1c94353"
+  env: "gcp-starter"
