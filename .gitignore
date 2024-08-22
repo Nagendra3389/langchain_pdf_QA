@@ -140,6 +140,13 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# Ignore the entire directory
+inputs/
+
+# Ignore the specific file
+config.yaml
+
+
 # mypy
 .mypy_cache/
 .dmypy.json
