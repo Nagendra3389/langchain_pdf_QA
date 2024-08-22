@@ -1,8 +1,12 @@
 OPENAI:
-  api_key: "sk-F-LkY9yktraZLSKx6TKAtI2ngduLKLKHuZ9ODL96qkT3BlbkFJUo-6xVekYYNYsn70ydOePvhKvHjGTU2ouo6yTVzCQA"
-  model : "openai-community/gpt2"
+  api_key: "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"
+
+  embade_model : "text-embedding-3-small"
 
 
 pinecone:
   api_key: "a1d658df-8eb2-460b-9c98-567bb1c94353"
   env: "gcp-starter"
+
+huggingface:
+  api_key: "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"
